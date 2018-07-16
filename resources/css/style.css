@@ -182,17 +182,17 @@ h5 {
 .nav-header {
   padding: 33px 25px;
   background-color: #2f4050;
-  background-image: url("patterns/header-profile.png");
+ /* background-image: url("patterns/header-profile.png");*/
 }
 .pace-done .nav-header {
   transition: all 0.4s;
 }
 ul.nav-second-level {
-  background: #293846;
+  background: #FF8C00;
 }
 .nav > li.active {
-  border-left: 4px solid #19aa8d;
-  background: #293846;
+  border-left: 4px solid #FF8C00;
+  background: #FF8C00;
 }
 .nav.nav-second-level > li.active {
   border: none;
