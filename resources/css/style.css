@@ -39,6 +39,10 @@ h5 {
   font-weight: 600;
 }
 
+#hover_lembretes:hover{
+  background-color: red;
+}
+
 #menu-lateral{
   background-color: #FF8C00;
 }
@@ -204,7 +208,8 @@ ul.nav-second-level {
   color: #DFE4ED;
 }
 .nav-header .text-muted {
-  color: #8095a8;
+  color: #006400;
+  font-weight: bold;
 }
 .minimalize-styl-2 {
   padding: 4px 12px;
@@ -1491,7 +1496,7 @@ a.list-group-item.active,
 a.list-group-item.active:hover,
 a.list-group-item.active:focus {
   background-color: #1ab394;
-  border-color: #1ab394;
+  border-color: red;
   color: #FFFFFF;
   z-index: 2;
 }
