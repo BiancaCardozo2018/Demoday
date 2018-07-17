@@ -44,11 +44,11 @@ h5 {
 }
 
 #menu-lateral{
-  background-color: #FF8C00;
+  background-color: #FFA500;
 }
 
 #menu-lateral2{
-  background-color: #FF8C00;
+  background-color: #FFA500;
 }
 
 #logo_login{
@@ -192,11 +192,11 @@ h5 {
   transition: all 0.4s;
 }
 ul.nav-second-level {
-  background: #FF8C00;
+  background: #FFA500;
 }
 .nav > li.active {
-  border-left: 4px solid #FF8C00;
-  background: #FF8C00;
+  border-left: 4px solid #FFA500;
+  background: #FFA500;
 }
 .nav.nav-second-level > li.active {
   border: none;
@@ -560,7 +560,7 @@ body.canvas-menu.mini-navbar nav.navbar-static-side {
 }
 .top-navigation .navbar-nav .dropdown-menu {
   box-shadow: none;
-  border: 1px solid #e7eaec;
+  border: 1px solid red;
 }
 .top-navigation .dropdown-menu > li > a {
   margin: 0;
@@ -3495,7 +3495,7 @@ body.tour-open .animated {
 }
 body {
   font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background-color: #FF8C00;
+  background-color: #FFA500;
   font-size: 13px;
   color: #000000;
   overflow-x: hidden;
@@ -6872,7 +6872,7 @@ body.landing-page {
   overflow: hidden;
 }
 .landing-page span.navy {
-  color: #FF8C00;
+  color: #FFA500;
 }
 .landing-page p.text-color {
   color: #676a6c;
@@ -6900,7 +6900,7 @@ body.landing-page {
   width: 60px;
   height: 1px;
   margin: 60px auto 0;
-  border-bottom: 2px solid #FF8C00;
+  border-bottom: 2px solid #FFA500;
 }
 .landing-page .navbar-wrapper {
   position: fixed;
@@ -6947,7 +6947,7 @@ body.landing-page {
 }
 .landing-page .navbar-default .navbar-nav > li > a:hover,
 .landing-page .navbar-default .navbar-nav > li > a:focus {
-  color: #1ab394;
+  color: #FFA500;
   background: inherit;
 }
 .landing-page .navbar-default .navbar-nav > .active > a:focus {
@@ -6982,7 +6982,7 @@ body.landing-page {
   color: #676a6c;
 }
 .landing-page .navbar-scroll.navbar-default .nav li a:hover {
-  color: #1ab394;
+  color: #FFA500;
 }
 .landing-page .navbar-wrapper .navbar.navbar-scroll {
   padding-top: 0;
@@ -7216,7 +7216,7 @@ body.landing-page {
   padding: 20px 16px;
 }
 .landing-page li.pricing-title {
-  background: #FF8C00;
+  background: #FFA500;
   color: #fff;
   padding: 10px;
   border-radius: 4px 4px 0 0;
